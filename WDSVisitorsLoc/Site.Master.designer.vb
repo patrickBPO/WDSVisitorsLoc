@@ -12,7 +12,25 @@ Option Explicit On
 
 
 Partial Public Class SiteMaster
-
+    
+    '''<summary>
+    '''SM control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents SM As Global.System.Web.UI.ScriptManager
+    
+    '''<summary>
+    '''ASPxMenu1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents ASPxMenu1 As Global.DevExpress.Web.ASPxMenu
+    
     '''<summary>
     '''MainContent control.
     '''</summary>
